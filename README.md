@@ -23,6 +23,6 @@ and understand website layout and styling.
 - Flexbox basics
 - Hosting website using GitHub Pages
 
-## 👤 Author
+## Author
 *Abhishek Sahani*  
 Frontend Developer (Fresher)
